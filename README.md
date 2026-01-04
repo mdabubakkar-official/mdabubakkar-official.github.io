@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/errbakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="errbakkar" height="30" width="40" /></a>
 <a href="https://fb.com/err.bakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="err.bakkar" height="30" width="40" /></a>
 <a href="https://instagram.com/err_bakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="err_bakkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chokkor with bakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chokkor with bakkar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chokkorwithbakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chokkor with bakkar" height="30" width="40" /></a>
 </p>
 
 <br/>
