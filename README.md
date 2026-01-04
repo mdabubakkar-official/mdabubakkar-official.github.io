@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Abu Bakkar</h1>
-<h3 align="center">🚀 Tech Entrepreneur | Author | Cloud Innovator</h3>
+<h3 align="center">🚀 Tech Entrepreneur | Author | Tech Influencer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdabubakkar-official&label=Profile%20Views&color=0e75b6&style=flat" alt="mdabubakkar-official" />
