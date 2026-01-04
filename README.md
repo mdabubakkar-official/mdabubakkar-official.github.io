@@ -14,8 +14,8 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on <b>Extent Technologies Limited</b><br/>
-  🌱 I’m currently scaling <b>HostOrient</b> & <b>WPOrient LLC</b><br/>
+  🔭 I’m currently working on <a href="https://extentit.com"><b>Extent Technologies Limited</b></a><br/>
+  🌱 I’m currently scaling <a href="https://hostorient.com"><b>HostOrient</b></a> & <a href="https://wporient.com"><b>WPOrient LLC</b></a><br/>
   👨‍💻 All of my projects are available at <a href="https://mdabubakkar.com">mdabubakkar.com</a><br/>
   📫 Reach me at <b>connect@mdabubakkar.com</b>
 </div>
