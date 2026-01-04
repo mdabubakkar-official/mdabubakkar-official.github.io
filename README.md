@@ -14,15 +14,10 @@
 <br/>
 
 <div align="center">
-
-🔭 I’m currently working on **Extent Technologies Limited**
-
-🌱 I’m currently scaling **HostOrient** & **WPOrient LLC**
-
-👨‍💻 All of my projects are available at **[mdabubakkar.com](https://mdabubakkar.com)**
-
-📫 Reach me at **connect@mdabubakkar.com**
-
+  🔭 I’m currently working on <b>Extent Technologies Limited</b><br/>
+  🌱 I’m currently scaling <b>HostOrient</b> & <b>WPOrient LLC</b><br/>
+  👨‍💻 All of my projects are available at <a href="https://mdabubakkar.com">mdabubakkar.com</a><br/>
+  📫 Reach me at <b>connect@mdabubakkar.com</b>
 </div>
 
 <br/>
