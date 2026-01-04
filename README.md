@@ -5,13 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=mdabubakkar-official&label=Profile%20Views&color=0e75b6&style=flat" alt="mdabubakkar-official" />
 </p>
 
-<br/>
-
 <p align="center">
   I am <b>MD Abu Bakkar</b>, a Bangladeshi entrepreneur, author, and tech enthusiast with a passion for innovation and leadership in the technology sector. Born in December 1999 in Jeddah, Saudi Arabia, I founded <b>HostOrient</b> and <b>WPOrient LLC</b>, a leading web hosting company. Currently, I serve as the Chairman of <b>Extent Technologies Limited</b>.
 </p>
-
-<br/>
 
 <div align="center">
   🔭 I’m currently working on <a href="https://extentit.com"><b>Extent Technologies Limited</b></a><br/>
@@ -19,8 +15,6 @@
   👨‍💻 All of my projects are available at <a href="https://mdabubakkar.com">mdabubakkar.com</a><br/>
   📫 Reach me at <b>connect@mdabubakkar.com</b>
 </div>
-
-<br/>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
